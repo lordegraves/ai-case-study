@@ -4,7 +4,7 @@ Week 1 Project
 
 ## Overview and Origin
 
-* Name of company
+* Unity: https://unity.com/our-company
 
 * When was the company incorporated?
 
