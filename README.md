@@ -70,10 +70,11 @@ Artificial Intelligence can be used in a variety of ways that would benefit Unit
 https://en.wikipedia.org/wiki/Unity_Technologies 
 https://6sense.com/tech/game-development/unity-market-share 
 https://unity.com/
-The Best Games That Use The Unity Game Engine (thegamer.com)
-Tackling toxicity with Unity Safe Voice | Unity Blog
-Online gaming - Statistics & Facts | Statista
-How Unity Makes Money: 3 Ways | Seeking Alpha
-Unity Technologies - Unity Launches Safe Voice in Closed Beta - An Advanced Anti-Toxicity Solution to Foster Safer Gaming Communities
-How Hi-Rez tackles toxic behavior at scale with Safe Voice (unity.com)
+https://www.thegamer.com/unity-game-engine-great-games/#night-in-the-woods 
+https://blog.unity.com/engine-platform/tackling-toxicity-with-unity-safe-voice 
+https://www.statista.com/topics/1551/online-gaming/#topicOverview 
+https://seekingalpha.com/article/4515216-ways-unity-makes-money 
+https://investors.unity.com/news/news-details/2023/Unity-Launches-Safe-Voice-in-Closed-Beta---An-Advanced-Anti-Toxicity-Solution-to-Foster-Safer-Gaming-Communities/default.aspx 
+https://unity.com/case-study/rogue-company-safe-voice 
+
 
